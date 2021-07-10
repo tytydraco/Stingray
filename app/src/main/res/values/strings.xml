@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stingray</string>
+
+    <string name="toast_permissions">Secure Settings permission not granted</string>
+
+    <string name="notif_channel_id">screen_state_service</string>
+    <string name="notif_channel_name">Screen State Service</string>
+    <string name="notif_channel_content_title">Listening for screen on/off events</string>
+    <string name="notif_channel_content_text">Tap here to disable the visual ongoing notification</string>
+
+    <string name="pref_file_key">com.draco.stingray.SHARED_PREFERENCE_FILE_KEY</string>
+    <string name="pref_enabled">enabled</string>
+</resources>
